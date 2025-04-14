@@ -37,5 +37,5 @@ for(int i=0; i<4; i++)
     cout<<"waktu ke_"<<i+1<<"="<<waktu[i]<<endl;
 }
 
-
+ 
 }
